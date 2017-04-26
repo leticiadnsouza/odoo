@@ -53,3 +53,5 @@ access_account_journal_sale_manager,account.journal sale manager,account.model_a
 access_account_invoice_tax_sale_manager,account.invoice.tax  sale manager,account.model_account_invoice_tax,sales_team.group_sale_salesman,1,0,0,0
 access_account_tax_group_sale_manager,account.tax.group sale manager,account.model_account_tax_group,sales_team.group_sale_salesman,1,0,0,0
 access_account_account_sale_manager,account.account sale manager,account.model_account_account,sales_team.group_sale_manager,1,0,0,0
+account_product_l10n_br_tax_icms_partition,l10n_br_tax.icms_partition,l10n_br_account_product.model_l10n_br_tax_icms_partition,1,0,0,0
+l10n_br_definition_state_product,l10n_br_tax.definition.state.product,l10n_br_account_product.model_l10n_br_tax_definition_state_product,1,0,0,0
